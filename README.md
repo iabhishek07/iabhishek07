@@ -19,9 +19,9 @@
 [![NodeJS](https://img.shields.io/static/v1?label=NodeJS&labelColor=02569b&message=WebApps&color=orange&logo=node.js&logoColor=FFFFFF&style=for-the-badge)](https://www.nodejs.org) | [![The-Laptop-Store](https://img.shields.io/static/v1?label=The-Laptop-Store&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/iabhishek07/The-Laptop-Store) [![AntStack-Interview-Task](https://img.shields.io/static/v1?label=AntStack-Interview-Task&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/iabhishek07/AntStack-Interview-Task)|
 [![Courses](https://img.shields.io/static/v1?label=Udemy&labelColor=02569b&message=Courses-Completed&color=orange&logo=udemy&logoColor=FFFFFF&style=for-the-badge)](https://www.udemy.com) | [![TheAppBrewery-FlutterCourse](https://img.shields.io/static/v1?label=TheAppBrewery-FlutterCourse&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/iabhishek07/TheAppBrewery-FlutterCourse) |
 
-<div align="center">
+<div align="left">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhishek07&show_icons=true&hide_border=true" alt="Abhishek's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=iabhishek07&show_icons=true&hide_border=true" alt="Abhishek's Github Stats">
 
 [![HitCount](http://hits.dwyl.com/iabhishek07/iabhishek07.svg)](http://hits.dwyl.com/iabhishek07/iabhishek07)
 
