@@ -19,7 +19,7 @@
 [![NodeJS](https://img.shields.io/static/v1?label=NodeJS&labelColor=02569b&message=WebApps&color=orange&logo=node.js&logoColor=FFFFFF&style=for-the-badge)](https://www.nodejs.org) | [![The-Laptop-Store](https://img.shields.io/static/v1?label=The-Laptop-Store&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/iabhishek07/The-Laptop-Store) [![AntStack-Interview-Task](https://img.shields.io/static/v1?label=AntStack-Interview-Task&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/iabhishek07/AntStack-Interview-Task)|
 [![Courses](https://img.shields.io/static/v1?label=Udemy&labelColor=02569b&message=Courses-Completed&color=orange&logo=udemy&logoColor=FFFFFF&style=for-the-badge)](https://www.udemy.com) | [![TheAppBrewery-FlutterCourse](https://img.shields.io/static/v1?label=TheAppBrewery-FlutterCourse&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/iabhishek07/TheAppBrewery-FlutterCourse) |
 
-<div align="center">
+<p align="left">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhishek07&show_icons=true&hide_border=true" alt="Abhishek's Github Stats">
 
@@ -30,4 +30,4 @@
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-wagh-674283141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/i.abhishek_wagh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.twitter.com/I_AM_Abhishek07" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-</div>
+</p>
