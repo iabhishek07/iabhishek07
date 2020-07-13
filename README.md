@@ -32,7 +32,7 @@
 
 <p align="left">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhishek07&show_icons=true&hide_border=true" alt="Abhishek's Github Stats">
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=iabhishek07&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishek07/github-readme-stats)
 
 [![HitCount](http://hits.dwyl.com/iabhishek07/iabhishek07.svg)](http://hits.dwyl.com/iabhishek07/iabhishek07)
 
