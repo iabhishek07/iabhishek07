@@ -1,24 +1,21 @@
 ### Hi there, I am [Abhishek]()👋
 
 
-- 🔭 I’m currently working on Flutter & Firebase Applications
-- 🌱 I’m currently learning Flutter/Firebase, NodeJs, SwiftUI
-- 👯 I’m looking to collaborate on Flutter and JavaScript Projects
-- 🤔 I’m looking for help with Static Site Generators like Gatsby
+- 🔭 I’m currently working on Serverless Architecture using AWS
+- 🌱 I’m currently learning AWS AppSync, Lambda, DynamoDB
 - 💬 Ask me about Flutter, Freelancing, Learning Resources
 - 📫 How to reach me: waghabhi21@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Physics🚀
+- ⚡ Fun fact: I love Astronomy🚀
 
 ### Languages & Tools
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### My Projects
