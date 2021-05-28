@@ -31,8 +31,6 @@
 
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=iabhishek07&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishek07/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/iabhishek07/iabhishek07.svg)](http://hits.dwyl.com/iabhishek07/iabhishek07)
-
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/abhishek-wagh-674283141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
