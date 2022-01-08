@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on Serverless Architecture using AWS
-- 🌱 I’m currently learning AWS AppSync, Lambda, DynamoDB
-- 💬 Ask me about Flutter, Freelancing, Learning Resources
+- 🌱 I’m currently learning AWS Step Functions, AppSync, DynamoDB ans SQS
+- 💬 Ask me about Serverless, AWS Cloud, Flutter, Freelancing, Learning Resources
 - 📫 How to reach me: waghabhi21@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Astronomy🚀
